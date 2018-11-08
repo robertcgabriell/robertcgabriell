@@ -57,14 +57,14 @@ directamente de los píxeles de la pantalla!
 
 El video de L.A. Noire [aquí][11].
 
- [1]: https://www.gdconf.com/
- [2]: https://www.epicgames.com/
- [3]: https://www.unrealengine.com/
- [4]: https://www.bioshockgame.com/
- [5]: https://masseffect.bioware.com/
- [6]: https://www.epicgames.com/infinityblade/
- [7]: https://www.udk.com/
- [8]: https://uk.ign.com/videos/2011/03/08/see-the-next-generation-of-video-games-in-action
- [9]: https://www.rockstargames.com/
- [10]: https://www.rockstargames.com/lanoire/
- [11]: https://www.youtube.com/rockstargames#p/a/u/1/q2EG5J05048
+ [1]: http://www.gdconf.com/
+ [2]: http://www.epicgames.com/
+ [3]: http://www.unrealengine.com/
+ [4]: http://www.bioshockgame.com/
+ [5]: http://masseffect.bioware.com/
+ [6]: http://www.epicgames.com/infinityblade/
+ [7]: http://www.udk.com/
+ [8]: http://uk.ign.com/videos/2011/03/08/see-the-next-generation-of-video-games-in-action
+ [9]: http://www.rockstargames.com/
+ [10]: http://www.rockstargames.com/lanoire/
+ [11]: http://www.youtube.com/rockstargames#p/a/u/1/q2EG5J05048

@@ -25,5 +25,5 @@ con ello continúen tocando para conseguir el cambio.
 
 Si queréis más información podéis encontrarla [aquí][2]
 
- [1]: https://www.vimeo.com/2539741
- [2]: https://www.playingforchange.com/
+ [1]: http://www.vimeo.com/2539741
+ [2]: http://www.playingforchange.com/

@@ -124,5 +124,5 @@ señoras y señores, y prometo que no tengo ni idea de cuando volveré a escribi
 
 
 
-[1]: https://store.steampowered.com/app/32360/ Steam
-[2]: https://www.kickstarter.com/projects/thimbleweedpark/thimbleweed-park-a-new-classic-point-and-click-adv Kickstarter
+[1]: http://store.steampowered.com/app/32360/ Steam
+[2]: http://www.kickstarter.com/projects/thimbleweedpark/thimbleweed-park-a-new-classic-point-and-click-adv Kickstarter

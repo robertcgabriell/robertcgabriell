@@ -49,5 +49,5 @@ agenda virtual. Estoy bastante ilusionado con ello y se que no me va a
 defraudar. ¡¡Así que a partir de septiembre tened cuidado si os encontráis
 conmigo por la calle!!
 
- [1]: https://youtube.com/watch?v=cwFwSIMmq4g 
- [2]: https://youtube.com/watch?v=X3E0rERorxs
+ [1]: http://youtube.com/watch?v=cwFwSIMmq4g 
+ [2]: http://youtube.com/watch?v=X3E0rERorxs

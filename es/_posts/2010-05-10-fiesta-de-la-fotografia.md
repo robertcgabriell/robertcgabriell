@@ -9,7 +9,7 @@ tags:
 ---
 
 Y este sábado fue la primera convocatoria de la Fiesta de la Fotografía,
-convocada por [EFTI - Distrito de Retiro](https://www.efti.es/). Fue un encuentro
+convocada por [EFTI - Distrito de Retiro](http://www.efti.es/). Fue un encuentro
 bastante interesante. Cerca de 2000 fotógrafos haciendo de las suyas dentro del
 recinto del Retiro, en busca de esa **Foto especial** que contara algo sobre el
 parque, su gente, el momento o quizás los sentimientos internos que el evento

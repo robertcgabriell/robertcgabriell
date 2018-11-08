@@ -38,5 +38,5 @@ os gusta el Progresivo Ambiental.
   
 *Still conceiving you all along...*  
 
- [1]: https://www.riverside.art.pl/
- [2]: https://www.youtube.com/watch?v=peDCmsJB1AA
+ [1]: http://www.riverside.art.pl/
+ [2]: http://www.youtube.com/watch?v=peDCmsJB1AA
