@@ -1,0 +1,27 @@
+#
+# Site navigation links
+#
+en:
+    - title: Blog
+      url: /en/
+
+    - title: About
+      url: /about/
+
+    - title: Search
+      url: /search/
+
+    - title: Español
+      url: /es/
+es:
+    - title: Blog
+      url: /
+
+    - title: Sobre mi
+      url: /sobremi/
+
+#    - title: Buscar
+#      url: /buscar/
+
+#    - title: English
+#      url: /

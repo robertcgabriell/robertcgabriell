@@ -1,0 +1,43 @@
+<!doctype html>
+<html class="no-js" lang="{{ page.lang }}">
+<head>
+{% include head.html %}
+</head>
+
+<body id="page">
+
+{% include navigation.html %}
+
+<div id="main" role="main">
+	<article class="entry">
+
+		{% include heading.html %}
+
+    	<div class="entry-wrapper">
+
+            {% include twitter.html %}
+
+			{% include page-title.html %}
+
+			<div class="entry-content">
+        		{{ content }}
+      		</div><!-- /.entry-content -->
+    	</div><!-- /.entry-wrapper -->
+
+		<!-- Pagination -->
+    	<nav class="pagination" role="navigation">
+      		{% if paginator.previous_page %}
+        		<a href="{{ site.url }}{{ paginator.previous_page_path }}" class="btn">Previo</a>
+      		{% endif %}
+      		{% if paginator.next_page %}
+        		<a href="{{ site.url }}{{ paginator.next_page_path }}" class="btn">Siguiente</a>
+      		{% endif %}
+    	</nav><!-- /.pagination -->
+  	</article>
+</div><!-- /#main -->
+
+{% include footer.html %}
+{% include scripts.html %}
+
+</body>
+</html>
