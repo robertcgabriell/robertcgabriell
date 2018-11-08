@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="https://www.w3.org/2005/Atom" xml:lang="en">
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text"></title>
-<generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="https://www.gabriell.es/feed.xml" />
-<link rel="alternate" type="text/html" href="https://www.gabriell.es" />
+<generator uri="http://github.com/jekyll/jekyll">Jekyll</generator>
+<link rel="self" type="application/atom+xml" href="http://www.gabriell.es/feed.xml" />
+<link rel="alternate" type="text/html" href="http://www.gabriell.es" />
 <updated>2016-09-19T22:32:30+02:00</updated>
-<id>https://www.gabriell.es/</id>
+<id>http://www.gabriell.es/</id>
 <author>
   <name>Robert C. Gabriell</name>
-  <uri>https://www.gabriell.es/</uri>
+  <uri>http://www.gabriell.es/</uri>
   
 </author>
 
@@ -17,13 +17,13 @@
 
 <entry>
   <title type="html"><![CDATA[Colaboración en Thimbleweed Park]]></title>
-  <link rel="alternate" type="text/html" href="https://www.gabriell.es/es/thimbleweed-book/" />
-  <id>https://www.gabriell.es/es/thimbleweed-book</id>
+  <link rel="alternate" type="text/html" href="http://www.gabriell.es/es/thimbleweed-book/" />
+  <id>http://www.gabriell.es/es/thimbleweed-book</id>
   <published>2016-08-28T00:00:00+02:00</published>
   <updated>2016-08-28T00:00:00+02:00</updated>
   <author>
     <name></name>
-    <uri>https://www.gabriell.es</uri>
+    <uri>http://www.gabriell.es</uri>
     
   </author>
   <content type="html">
@@ -33,11 +33,11 @@ no lo conozca, Ron Gilber es el creador, junto a Gary Winnick, de &lt;em&gt;Monk
 más épicas de los 90. Esta aventura gráfica giraba alrededor de nuestro proto anti-héroe, Gubrush Threepwood, en
 su empeño por convertirse en un pirata de pro.&lt;/p&gt;
 
-&lt;p&gt;¡Si tenéis algún interés en este tipo de aventuras siempre podéis comprar la edición especial &lt;a href=&quot;https://store.steampowered.com/app/32360/ Steam&quot;&gt;aquí&lt;/a&gt; y seleccionar
+&lt;p&gt;¡Si tenéis algún interés en este tipo de aventuras siempre podéis comprar la edición especial &lt;a href=&quot;http://store.steampowered.com/app/32360/ Steam&quot;&gt;aquí&lt;/a&gt; y seleccionar
 el modo clásico para ver el juego en todo su esplendor noventero!&lt;/p&gt;
 
 &lt;p&gt;Resulta que Ron había decidido crear una nueva aventura de &lt;em&gt;Point&amp;amp;Click&lt;/em&gt;, como se les llamaba antiguamente, y
-preparó una campaña a través de &lt;a href=&quot;https://www.kickstarter.com/projects/thimbleweedpark/thimbleweed-park-a-new-classic-point-and-click-adv Kickstarter&quot;&gt;Kickstarter&lt;/a&gt; para lanzar &lt;em&gt;Thimbleweed Park&lt;/em&gt;. El &lt;em&gt;look and feel&lt;/em&gt; del juego
+preparó una campaña a través de &lt;a href=&quot;http://www.kickstarter.com/projects/thimbleweedpark/thimbleweed-park-a-new-classic-point-and-click-adv Kickstarter&quot;&gt;Kickstarter&lt;/a&gt; para lanzar &lt;em&gt;Thimbleweed Park&lt;/em&gt;. El &lt;em&gt;look and feel&lt;/em&gt; del juego
 prometía mucho, y no pude resistirme a enrolarme, como buen piratilla, en la aventura de ayudar a crear una
 aventura! (&lt;strong&gt;WARNING: Inception mode ON&lt;/strong&gt;)&lt;/p&gt;
 
@@ -142,7 +142,7 @@ hacia lo desconocido...
 &lt;/code&gt;&lt;/pre&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;https://www.gabriell.es/es/thimbleweed-book/&quot;&gt;Colaboración en Thimbleweed Park&lt;/a&gt; was originally published by Robert C. Gabriell at &lt;a href=&quot;https://www.gabriell.es&quot;&gt;&lt;/a&gt; on August 28, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.gabriell.es/es/thimbleweed-book/&quot;&gt;Colaboración en Thimbleweed Park&lt;/a&gt; was originally published by Robert C. Gabriell at &lt;a href=&quot;http://www.gabriell.es&quot;&gt;&lt;/a&gt; on August 28, 2016.&lt;/p&gt;
 
   </content>
 </entry>
@@ -152,13 +152,13 @@ hacia lo desconocido...
 
 <entry>
   <title type="html"><![CDATA[En la panza del Mekaro]]></title>
-  <link rel="alternate" type="text/html" href="https://www.gabriell.es/es/en-la-panza-del-mekaro/" />
-  <id>https://www.gabriell.es/es/en-la-panza-del-mekaro</id>
+  <link rel="alternate" type="text/html" href="http://www.gabriell.es/es/en-la-panza-del-mekaro/" />
+  <id>http://www.gabriell.es/es/en-la-panza-del-mekaro</id>
   <published>2014-02-02T00:00:00+01:00</published>
   <updated>2014-02-02T00:00:00+01:00</updated>
   <author>
     <name></name>
-    <uri>https://www.gabriell.es</uri>
+    <uri>http://www.gabriell.es</uri>
     
   </author>
   <content type="html">
@@ -204,7 +204,7 @@ a otro, le harían saber porqué.&lt;/p&gt;
 
 &lt;p&gt;Continuará…(o no)&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;https://www.gabriell.es/es/en-la-panza-del-mekaro/&quot;&gt;En la panza del Mekaro&lt;/a&gt; was originally published by Robert C. Gabriell at &lt;a href=&quot;https://www.gabriell.es&quot;&gt;&lt;/a&gt; on February 02, 2014.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.gabriell.es/es/en-la-panza-del-mekaro/&quot;&gt;En la panza del Mekaro&lt;/a&gt; was originally published by Robert C. Gabriell at &lt;a href=&quot;http://www.gabriell.es&quot;&gt;&lt;/a&gt; on February 02, 2014.&lt;/p&gt;
 
   </content>
 </entry>
@@ -214,13 +214,13 @@ a otro, le harían saber porqué.&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[No les votes]]></title>
-  <link rel="alternate" type="text/html" href="https://www.gabriell.es/es/no-les-votes/" />
-  <id>https://www.gabriell.es/es/no-les-votes</id>
+  <link rel="alternate" type="text/html" href="http://www.gabriell.es/es/no-les-votes/" />
+  <id>http://www.gabriell.es/es/no-les-votes</id>
   <published>2011-05-19T00:00:00+02:00</published>
   <updated>2011-05-19T00:00:00+02:00</updated>
   <author>
     <name></name>
-    <uri>https://www.gabriell.es</uri>
+    <uri>http://www.gabriell.es</uri>
     
   </author>
   <content type="html">
@@ -237,13 +237,13 @@ unirnos para intentar conseguir un bien común y mayor.&lt;/p&gt;
 &lt;p&gt;Todo el movimiento se puede seguir en Twitter a través de los hashtags
 #acampadasol, #spanishrevolution y #nolesvotes (hay muchos más pero esos son
 los más importantes, al menos para la acampada de Madrid). Yo en particular
-también sigo a &lt;a href=&quot;https://www.filmica.com/david_bravo/&quot;&gt;David Bravo&lt;/a&gt; (\@dbravo) abogado especialista en propiedad
+también sigo a &lt;a href=&quot;http://www.filmica.com/david_bravo/&quot;&gt;David Bravo&lt;/a&gt; (\@dbravo) abogado especialista en propiedad
 intelectual y derecho informático, que ha estado presente en otros movimientos
 (como las protestas contra la Ley Sinde), y que está ayudando actualmente junto
 con otros colegas (Javier de la Cueva \@jdelacueva y \@bufetalmeida por ejemplo)
 a que el movimiento sea posible de una manera legal.&lt;/p&gt;
 
-&lt;p&gt;El manifiesto de #nolesvotes se puede encontrar en Google Docs &lt;a href=&quot;https://docs.google.com/document/pub?id=139G8EL1OOR-RtfhTstHb7qekZvBoJTz1oCImbGa_I48&amp;amp;pli=1&quot;&gt;aquí&lt;/a&gt;,
+&lt;p&gt;El manifiesto de #nolesvotes se puede encontrar en Google Docs &lt;a href=&quot;http://docs.google.com/document/pub?id=139G8EL1OOR-RtfhTstHb7qekZvBoJTz1oCImbGa_I48&amp;amp;pli=1&quot;&gt;aquí&lt;/a&gt;,
 aunque no se hasta cuando estará ahí colgado, así que a continuación copio y
 pego los puntos importantes aparecidos en la version 2 del documento:&lt;/p&gt;
 
@@ -298,7 +298,7 @@ CiU.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;¡TODOS A LA ACAMPADA QUE HAY EN SOL O EN CADA CIUDAD! ¡QUE SE NOS OIGA!&lt;/strong&gt;&lt;/p&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;https://www.gabriell.es/es/no-les-votes/&quot;&gt;No les votes&lt;/a&gt; was originally published by Robert C. Gabriell at &lt;a href=&quot;https://www.gabriell.es&quot;&gt;&lt;/a&gt; on May 19, 2011.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.gabriell.es/es/no-les-votes/&quot;&gt;No les votes&lt;/a&gt; was originally published by Robert C. Gabriell at &lt;a href=&quot;http://www.gabriell.es&quot;&gt;&lt;/a&gt; on May 19, 2011.&lt;/p&gt;
 
   </content>
 </entry>
@@ -308,13 +308,13 @@ CiU.&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[A'dam]]></title>
-  <link rel="alternate" type="text/html" href="https://www.gabriell.es/es/adam/" />
-  <id>https://www.gabriell.es/es/adam</id>
+  <link rel="alternate" type="text/html" href="http://www.gabriell.es/es/adam/" />
+  <id>http://www.gabriell.es/es/adam</id>
   <published>2011-04-13T00:00:00+02:00</published>
   <updated>2011-04-13T00:00:00+02:00</updated>
   <author>
     <name></name>
-    <uri>https://www.gabriell.es</uri>
+    <uri>http://www.gabriell.es</uri>
     
   </author>
   <content type="html">
@@ -380,7 +380,7 @@ todo al máximo.&lt;/p&gt;
 
 &lt;p&gt;En fin, una vez que esté allí, invitados quedáis a visitarme.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;https://www.gabriell.es/es/adam/&quot;&gt;A&#39;dam&lt;/a&gt; was originally published by Robert C. Gabriell at &lt;a href=&quot;https://www.gabriell.es&quot;&gt;&lt;/a&gt; on April 13, 2011.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.gabriell.es/es/adam/&quot;&gt;A&#39;dam&lt;/a&gt; was originally published by Robert C. Gabriell at &lt;a href=&quot;http://www.gabriell.es&quot;&gt;&lt;/a&gt; on April 13, 2011.&lt;/p&gt;
 
   </content>
 </entry>
@@ -390,33 +390,33 @@ todo al máximo.&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Pasión y realidad]]></title>
-  <link rel="alternate" type="text/html" href="https://www.gabriell.es/es/pasion-y-realidad/" />
-  <id>https://www.gabriell.es/es/pasion-y-realidad</id>
+  <link rel="alternate" type="text/html" href="http://www.gabriell.es/es/pasion-y-realidad/" />
+  <id>http://www.gabriell.es/es/pasion-y-realidad</id>
   <published>2011-03-09T00:00:00+01:00</published>
   <updated>2011-03-09T00:00:00+01:00</updated>
   <author>
     <name></name>
-    <uri>https://www.gabriell.es</uri>
+    <uri>http://www.gabriell.es</uri>
     
   </author>
   <content type="html">
     &lt;p&gt;Recientemente he sabido de dos perlas relacionadas con el mundo de los
 videojuegos que ya me están haciendo salivar y anhelar que el tiempo pase más
 rápido para llegar cuanto antes a finales de década. Recientemente se ha
-celebrado la &lt;a href=&quot;https://www.gdconf.com/&quot;&gt;Game Developer Conference&lt;/a&gt; en San Francisco, California, y
+celebrado la &lt;a href=&quot;http://www.gdconf.com/&quot;&gt;Game Developer Conference&lt;/a&gt; en San Francisco, California, y
 aparte de todas las novedades en videojuegos que cabía esperar (y manidos
-remakes de antaño), ha aparecido &lt;a href=&quot;https://www.epicgames.com/&quot;&gt;Epic Games&lt;/a&gt; con su maravillosísimo &lt;a href=&quot;https://www.unrealengine.com/&quot;&gt;Unreal
+remakes de antaño), ha aparecido &lt;a href=&quot;http://www.epicgames.com/&quot;&gt;Epic Games&lt;/a&gt; con su maravillosísimo &lt;a href=&quot;http://www.unrealengine.com/&quot;&gt;Unreal
 Engine&lt;/a&gt; y su visión de cómo serán los juegos dentro de unos
 años…gracias por supuesto a su motor líder en ventas. Verdaderas joyas
-como &lt;a href=&quot;https://www.bioshockgame.com/&quot;&gt;BioShock&lt;/a&gt;, &lt;a href=&quot;https://masseffect.bioware.com/&quot;&gt;Mass Effect&lt;/a&gt; o el exitoso &lt;a href=&quot;https://www.epicgames.com/infinityblade/&quot;&gt;Infinity Blade&lt;/a&gt; (al que
+como &lt;a href=&quot;http://www.bioshockgame.com/&quot;&gt;BioShock&lt;/a&gt;, &lt;a href=&quot;http://masseffect.bioware.com/&quot;&gt;Mass Effect&lt;/a&gt; o el exitoso &lt;a href=&quot;http://www.epicgames.com/infinityblade/&quot;&gt;Infinity Blade&lt;/a&gt; (al que
 por cierto estoy últimamente muy enganchado), son solo muestras de la potencia
 de este motor en su versión actual para Next Gen y para portátiles/móviles
-(como la versión del motor &lt;a href=&quot;https://www.udk.com/&quot;&gt;UDK&lt;/a&gt; para dispositivos como iPhone).&lt;/p&gt;
+(como la versión del motor &lt;a href=&quot;http://www.udk.com/&quot;&gt;UDK&lt;/a&gt; para dispositivos como iPhone).&lt;/p&gt;
 
 &lt;p&gt;En la GDC Epic ha echado una mirada al futuro de los videojuegos a través del
 bisel de su propio motor, y la verdad que el resultado es (teniendo en cuenta
 que es una prueba de concepto) impresionante. Si dentro de 3 o 4 años los
-videojuegos se parecen a lo que se muestra en &lt;a href=&quot;https://uk.ign.com/videos/2011/03/08/see-the-next-generation-of-video-games-in-action&quot;&gt;este video&lt;/a&gt; me voy a hacer
+videojuegos se parecen a lo que se muestra en &lt;a href=&quot;http://uk.ign.com/videos/2011/03/08/see-the-next-generation-of-video-games-in-action&quot;&gt;este video&lt;/a&gt; me voy a hacer
 directamente acólito del Sagrado Motor de Videojuegos. El nivel de realismo me
 parece apabullante, los detalles, las luces, las sombras. Es curioso a lo que
 nos hemos acostumbrado los jugadores habituales de videojuegos (hardcore
@@ -432,7 +432,7 @@ Person Movies o Immersion Movies, a saber, y me encantará poder estar allí
 cuando ocurra para disfrutar de ello.&lt;/p&gt;
 
 &lt;p&gt;Como guinda final, otra perla de la que he sido consciente hace más bien poco:
-el nuevo juego de &lt;a href=&quot;https://www.rockstargames.com/&quot;&gt;Rockstar Games&lt;/a&gt;, &lt;a href=&quot;https://www.rockstargames.com/lanoire/&quot;&gt;L.A. Noire&lt;/a&gt;, una historia de cine
+el nuevo juego de &lt;a href=&quot;http://www.rockstargames.com/&quot;&gt;Rockstar Games&lt;/a&gt;, &lt;a href=&quot;http://www.rockstargames.com/lanoire/&quot;&gt;L.A. Noire&lt;/a&gt;, una historia de cine
 negro muy cuidada y con bastante estilo. El gameplay parece bastante similar a
 Grand Theft Auto, aunque salvando las distancias. Los gráficos tienen más
 estilo y la temática es completamente distinta. Sin embargo hay algo que me ha
@@ -447,10 +447,10 @@ una técnica revolucionara que cambiará la manera en la que vemos los
 videojuegos a medio plazo: ¡ya estoy viendo nuevas estrellas surgidas
 directamente de los píxeles de la pantalla!&lt;/p&gt;
 
-&lt;p&gt;El video de L.A. Noire &lt;a href=&quot;https://www.youtube.com/rockstargames#p/a/u/1/q2EG5J05048&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;El video de L.A. Noire &lt;a href=&quot;http://www.youtube.com/rockstargames#p/a/u/1/q2EG5J05048&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;https://www.gabriell.es/es/pasion-y-realidad/&quot;&gt;Pasión y realidad&lt;/a&gt; was originally published by Robert C. Gabriell at &lt;a href=&quot;https://www.gabriell.es&quot;&gt;&lt;/a&gt; on March 09, 2011.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.gabriell.es/es/pasion-y-realidad/&quot;&gt;Pasión y realidad&lt;/a&gt; was originally published by Robert C. Gabriell at &lt;a href=&quot;http://www.gabriell.es&quot;&gt;&lt;/a&gt; on March 09, 2011.&lt;/p&gt;
 
   </content>
 </entry>
@@ -460,13 +460,13 @@ directamente de los píxeles de la pantalla!&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Llévame a la luna]]></title>
-  <link rel="alternate" type="text/html" href="https://www.gabriell.es/es/llevame-a-la-luna/" />
-  <id>https://www.gabriell.es/es/llevame-a-la-luna</id>
+  <link rel="alternate" type="text/html" href="http://www.gabriell.es/es/llevame-a-la-luna/" />
+  <id>http://www.gabriell.es/es/llevame-a-la-luna</id>
   <published>2011-03-01T00:00:00+01:00</published>
   <updated>2011-03-01T00:00:00+01:00</updated>
   <author>
     <name></name>
-    <uri>https://www.gabriell.es</uri>
+    <uri>http://www.gabriell.es</uri>
     
   </author>
   <content type="html">
@@ -501,7 +501,7 @@ poco de ejercicio, un poco de Ibuprofeno y alguna visita esporádica al médico.
 corriendo…&lt;em&gt;and english classes to end the day&lt;/em&gt;. ¡A disfrutar
 del menu!&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;https://www.gabriell.es/es/llevame-a-la-luna/&quot;&gt;Llévame a la luna&lt;/a&gt; was originally published by Robert C. Gabriell at &lt;a href=&quot;https://www.gabriell.es&quot;&gt;&lt;/a&gt; on March 01, 2011.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.gabriell.es/es/llevame-a-la-luna/&quot;&gt;Llévame a la luna&lt;/a&gt; was originally published by Robert C. Gabriell at &lt;a href=&quot;http://www.gabriell.es&quot;&gt;&lt;/a&gt; on March 01, 2011.&lt;/p&gt;
 
   </content>
 </entry>
@@ -511,13 +511,13 @@ del menu!&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Meme]]></title>
-  <link rel="alternate" type="text/html" href="https://www.gabriell.es/es/meme/" />
-  <id>https://www.gabriell.es/es/meme</id>
+  <link rel="alternate" type="text/html" href="http://www.gabriell.es/es/meme/" />
+  <id>http://www.gabriell.es/es/meme</id>
   <published>2011-02-20T00:00:00+01:00</published>
   <updated>2011-02-20T00:00:00+01:00</updated>
   <author>
     <name></name>
-    <uri>https://www.gabriell.es</uri>
+    <uri>http://www.gabriell.es</uri>
     
   </author>
   <content type="html">
@@ -549,9 +549,9 @@ que aparezca será la portada de tu álbum.&lt;/p&gt;
 &lt;p&gt;Normalmente no me adhiero a estas campañas, pero esta me hizo gracia y terminé
 haciendo la portada de mi disco. ¡Aquí tenéis el resultado!:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.gabriell.es/images/ianblack.jpg&quot; alt=&quot;Ian Black&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.gabriell.es/images/ianblack.jpg&quot; alt=&quot;Ian Black&quot; /&gt;&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;https://www.gabriell.es/es/meme/&quot;&gt;Meme&lt;/a&gt; was originally published by Robert C. Gabriell at &lt;a href=&quot;https://www.gabriell.es&quot;&gt;&lt;/a&gt; on February 20, 2011.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.gabriell.es/es/meme/&quot;&gt;Meme&lt;/a&gt; was originally published by Robert C. Gabriell at &lt;a href=&quot;http://www.gabriell.es&quot;&gt;&lt;/a&gt; on February 20, 2011.&lt;/p&gt;
 
   </content>
 </entry>
@@ -561,13 +561,13 @@ haciendo la portada de mi disco. ¡Aquí tenéis el resultado!:&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Diferentes etapas]]></title>
-  <link rel="alternate" type="text/html" href="https://www.gabriell.es/es/diferentes-etapas/" />
-  <id>https://www.gabriell.es/es/diferentes-etapas</id>
+  <link rel="alternate" type="text/html" href="http://www.gabriell.es/es/diferentes-etapas/" />
+  <id>http://www.gabriell.es/es/diferentes-etapas</id>
   <published>2011-02-19T00:00:00+01:00</published>
   <updated>2011-02-19T00:00:00+01:00</updated>
   <author>
     <name></name>
-    <uri>https://www.gabriell.es</uri>
+    <uri>http://www.gabriell.es</uri>
     
   </author>
   <content type="html">
@@ -605,7 +605,7 @@ haciendo la portada de mi disco. ¡Aquí tenéis el resultado!:&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Ahora solo me quedan tus labios&lt;/em&gt;&lt;br /&gt;
 &lt;em&gt;y el susurro de alguna canción&lt;/em&gt;&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;https://www.gabriell.es/es/diferentes-etapas/&quot;&gt;Diferentes etapas&lt;/a&gt; was originally published by Robert C. Gabriell at &lt;a href=&quot;https://www.gabriell.es&quot;&gt;&lt;/a&gt; on February 19, 2011.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.gabriell.es/es/diferentes-etapas/&quot;&gt;Diferentes etapas&lt;/a&gt; was originally published by Robert C. Gabriell at &lt;a href=&quot;http://www.gabriell.es&quot;&gt;&lt;/a&gt; on February 19, 2011.&lt;/p&gt;
 
   </content>
 </entry>
@@ -615,13 +615,13 @@ haciendo la portada de mi disco. ¡Aquí tenéis el resultado!:&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Canciones de una vida ajetreada]]></title>
-  <link rel="alternate" type="text/html" href="https://www.gabriell.es/es/canciones-de-una-vida-ajetreada/" />
-  <id>https://www.gabriell.es/es/canciones-de-una-vida-ajetreada</id>
+  <link rel="alternate" type="text/html" href="http://www.gabriell.es/es/canciones-de-una-vida-ajetreada/" />
+  <id>http://www.gabriell.es/es/canciones-de-una-vida-ajetreada</id>
   <published>2011-02-15T00:00:00+01:00</published>
   <updated>2011-02-15T00:00:00+01:00</updated>
   <author>
     <name></name>
-    <uri>https://www.gabriell.es</uri>
+    <uri>http://www.gabriell.es</uri>
     
   </author>
   <content type="html">
@@ -639,7 +639,7 @@ por todas. Los dos primeros ya están cubiertos. Veremos cuanto tardo en cumplir
 el tercero. Mientras tanto tendré que seguir escarbando entre papeles añejos
 para encontrar el resto de poesías cantadas.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;https://www.gabriell.es/es/canciones-de-una-vida-ajetreada/&quot;&gt;Canciones de una vida ajetreada&lt;/a&gt; was originally published by Robert C. Gabriell at &lt;a href=&quot;https://www.gabriell.es&quot;&gt;&lt;/a&gt; on February 15, 2011.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.gabriell.es/es/canciones-de-una-vida-ajetreada/&quot;&gt;Canciones de una vida ajetreada&lt;/a&gt; was originally published by Robert C. Gabriell at &lt;a href=&quot;http://www.gabriell.es&quot;&gt;&lt;/a&gt; on February 15, 2011.&lt;/p&gt;
 
   </content>
 </entry>
@@ -649,13 +649,13 @@ para encontrar el resto de poesías cantadas.&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Revolución]]></title>
-  <link rel="alternate" type="text/html" href="https://www.gabriell.es/es/revolucion/" />
-  <id>https://www.gabriell.es/es/revolucion</id>
+  <link rel="alternate" type="text/html" href="http://www.gabriell.es/es/revolucion/" />
+  <id>http://www.gabriell.es/es/revolucion</id>
   <published>2011-02-13T00:00:00+01:00</published>
   <updated>2011-02-13T00:00:00+01:00</updated>
   <author>
     <name></name>
-    <uri>https://www.gabriell.es</uri>
+    <uri>http://www.gabriell.es</uri>
     
   </author>
   <content type="html">
@@ -699,7 +699,7 @@ para encontrar el resto de poesías cantadas.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;De la rabia entre mis manos callo&lt;/em&gt;&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;https://www.gabriell.es/es/revolucion/&quot;&gt;Revolución&lt;/a&gt; was originally published by Robert C. Gabriell at &lt;a href=&quot;https://www.gabriell.es&quot;&gt;&lt;/a&gt; on February 13, 2011.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.gabriell.es/es/revolucion/&quot;&gt;Revolución&lt;/a&gt; was originally published by Robert C. Gabriell at &lt;a href=&quot;http://www.gabriell.es&quot;&gt;&lt;/a&gt; on February 13, 2011.&lt;/p&gt;
 
   </content>
 </entry>
@@ -709,13 +709,13 @@ para encontrar el resto de poesías cantadas.&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Sácalo de tu mente]]></title>
-  <link rel="alternate" type="text/html" href="https://www.gabriell.es/es/sacalo-de-tu-mente/" />
-  <id>https://www.gabriell.es/es/sacalo-de-tu-mente</id>
+  <link rel="alternate" type="text/html" href="http://www.gabriell.es/es/sacalo-de-tu-mente/" />
+  <id>http://www.gabriell.es/es/sacalo-de-tu-mente</id>
   <published>2011-02-12T00:00:00+01:00</published>
   <updated>2011-02-12T00:00:00+01:00</updated>
   <author>
     <name></name>
-    <uri>https://www.gabriell.es</uri>
+    <uri>http://www.gabriell.es</uri>
     
   </author>
   <content type="html">
@@ -776,7 +776,7 @@ para encontrar el resto de poesías cantadas.&lt;/p&gt;
 &lt;em&gt;solo quiero olvidar&lt;/em&gt;&lt;br /&gt;
 &lt;em&gt;el porqué estoy aquí&lt;/em&gt;&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;https://www.gabriell.es/es/sacalo-de-tu-mente/&quot;&gt;Sácalo de tu mente&lt;/a&gt; was originally published by Robert C. Gabriell at &lt;a href=&quot;https://www.gabriell.es&quot;&gt;&lt;/a&gt; on February 12, 2011.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.gabriell.es/es/sacalo-de-tu-mente/&quot;&gt;Sácalo de tu mente&lt;/a&gt; was originally published by Robert C. Gabriell at &lt;a href=&quot;http://www.gabriell.es&quot;&gt;&lt;/a&gt; on February 12, 2011.&lt;/p&gt;
 
   </content>
 </entry>
@@ -786,13 +786,13 @@ para encontrar el resto de poesías cantadas.&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Particle (unseen)]]></title>
-  <link rel="alternate" type="text/html" href="https://www.gabriell.es/es/particle-unseen/" />
-  <id>https://www.gabriell.es/es/particle-unseen</id>
+  <link rel="alternate" type="text/html" href="http://www.gabriell.es/es/particle-unseen/" />
+  <id>http://www.gabriell.es/es/particle-unseen</id>
   <published>2011-02-07T00:00:00+01:00</published>
   <updated>2011-02-07T00:00:00+01:00</updated>
   <author>
     <name></name>
-    <uri>https://www.gabriell.es</uri>
+    <uri>http://www.gabriell.es</uri>
     
   </author>
   <content type="html">
@@ -843,7 +843,7 @@ las dos a la vez. Normalmente ni yo mismo se ninguna de las dos cosas.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;CORPSE BREATH!!!!!&lt;/em&gt;&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;https://www.gabriell.es/es/particle-unseen/&quot;&gt;Particle (unseen)&lt;/a&gt; was originally published by Robert C. Gabriell at &lt;a href=&quot;https://www.gabriell.es&quot;&gt;&lt;/a&gt; on February 07, 2011.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.gabriell.es/es/particle-unseen/&quot;&gt;Particle (unseen)&lt;/a&gt; was originally published by Robert C. Gabriell at &lt;a href=&quot;http://www.gabriell.es&quot;&gt;&lt;/a&gt; on February 07, 2011.&lt;/p&gt;
 
   </content>
 </entry>
@@ -853,36 +853,36 @@ las dos a la vez. Normalmente ni yo mismo se ninguna de las dos cosas.&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Starway to heaven]]></title>
-  <link rel="alternate" type="text/html" href="https://www.gabriell.es/es/starway-to-heaven/" />
-  <id>https://www.gabriell.es/es/starway-to-heaven</id>
+  <link rel="alternate" type="text/html" href="http://www.gabriell.es/es/starway-to-heaven/" />
+  <id>http://www.gabriell.es/es/starway-to-heaven</id>
   <published>2010-05-11T00:00:00+02:00</published>
   <updated>2010-05-11T00:00:00+02:00</updated>
   <author>
     <name></name>
-    <uri>https://www.gabriell.es</uri>
+    <uri>http://www.gabriell.es</uri>
     
   </author>
   <content type="html">
     &lt;p&gt;¡¡Vaya, que ilusión!! Soy asiduo a un blog sobre ciencia simplista (si, si, así
-como suena), que es una delicia. Su nombre es &lt;a href=&quot;https://www.eltamiz.com/&quot;&gt;El Tamiz&lt;/a&gt; , y lo recomiendo
+como suena), que es una delicia. Su nombre es &lt;a href=&quot;http://www.eltamiz.com/&quot;&gt;El Tamiz&lt;/a&gt; , y lo recomiendo
 para todo aquel que sea un apasionado a la ciencia y, como yo, no tenga un
 coeficiente intelectual de 200 o más hace ya unas semanas se está llevando a
 cabo en este blog una serie llamada Desafíos (en realidad solo ha habido 2
 desafíos hasta ahora, pero el autor pretende que la sección se convierta en un
-habitual).  Trás un primer desafío sobre &lt;a href=&quot;https://eltamiz.com/2010/04/06/desafios-el-pajaro-azuzu/&quot;&gt;El Pájaro Azuzú&lt;/a&gt;, la semana pasada
-se publicó uno nuevo, &lt;a href=&quot;https://eltamiz.com/2010/05/03/desafios-escalera-hacia-el-cielo/&quot;&gt;Escalera hacia el Cielo&lt;/a&gt;, que me pareció muy
+habitual).  Trás un primer desafío sobre &lt;a href=&quot;http://eltamiz.com/2010/04/06/desafios-el-pajaro-azuzu/&quot;&gt;El Pájaro Azuzú&lt;/a&gt;, la semana pasada
+se publicó uno nuevo, &lt;a href=&quot;http://eltamiz.com/2010/05/03/desafios-escalera-hacia-el-cielo/&quot;&gt;Escalera hacia el Cielo&lt;/a&gt;, que me pareció muy
 interesante.  Total que me puse a elló, y como tampoco tenía mucho tiempo, me
 pasé casi toda la semana dándole vueltas. Al final me decidí a escribir la
 solución que se me había ocurrido, paso por paso, e intentando seguir un poco el
 tono del blog. Y hete aquí, que ilusión la mía, que han hecho mención especial
-de la solución que mandé, y han publicado &lt;a href=&quot;https://eltamiz.com/2010/05/10/desafios-escalera-hacia-el-cielo-solucion/&quot;&gt;¡un fragmento de la misma!&lt;/a&gt;. La
+de la solución que mandé, y han publicado &lt;a href=&quot;http://eltamiz.com/2010/05/10/desafios-escalera-hacia-el-cielo-solucion/&quot;&gt;¡un fragmento de la misma!&lt;/a&gt;. La
 verdad es que viendo las demás soluciones, la mía (junto con la de otros
 &lt;em&gt;pisanos&lt;/em&gt; que mandaron su solución), no es de las más chulas, pero me ha
 encantado que lo publiquen. ¡En fin, una pequeña aportación al frikismo
 universal!&lt;/p&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;https://www.gabriell.es/es/starway-to-heaven/&quot;&gt;Starway to heaven&lt;/a&gt; was originally published by Robert C. Gabriell at &lt;a href=&quot;https://www.gabriell.es&quot;&gt;&lt;/a&gt; on May 11, 2010.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.gabriell.es/es/starway-to-heaven/&quot;&gt;Starway to heaven&lt;/a&gt; was originally published by Robert C. Gabriell at &lt;a href=&quot;http://www.gabriell.es&quot;&gt;&lt;/a&gt; on May 11, 2010.&lt;/p&gt;
 
   </content>
 </entry>
@@ -892,18 +892,18 @@ universal!&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Fiesta de la fotografía]]></title>
-  <link rel="alternate" type="text/html" href="https://www.gabriell.es/es/fiesta-de-la-fotografia/" />
-  <id>https://www.gabriell.es/es/fiesta-de-la-fotografia</id>
+  <link rel="alternate" type="text/html" href="http://www.gabriell.es/es/fiesta-de-la-fotografia/" />
+  <id>http://www.gabriell.es/es/fiesta-de-la-fotografia</id>
   <published>2010-05-10T00:00:00+02:00</published>
   <updated>2010-05-10T00:00:00+02:00</updated>
   <author>
     <name></name>
-    <uri>https://www.gabriell.es</uri>
+    <uri>http://www.gabriell.es</uri>
     
   </author>
   <content type="html">
     &lt;p&gt;Y este sábado fue la primera convocatoria de la Fiesta de la Fotografía,
-convocada por &lt;a href=&quot;https://www.efti.es/&quot;&gt;EFTI - Distrito de Retiro&lt;/a&gt;. Fue un encuentro
+convocada por &lt;a href=&quot;http://www.efti.es/&quot;&gt;EFTI - Distrito de Retiro&lt;/a&gt;. Fue un encuentro
 bastante interesante. Cerca de 2000 fotógrafos haciendo de las suyas dentro del
 recinto del Retiro, en busca de esa &lt;strong&gt;Foto especial&lt;/strong&gt; que contara algo sobre el
 parque, su gente, el momento o quizás los sentimientos internos que el evento
@@ -935,7 +935,7 @@ congelados he colgado una selección de las fotos que hice aquel día. A ver si
 retoco alguna de ellas y la cuelgo en Flickr, que lo tengo abandonadito al
 pobre. ¡Clic, Clac!&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;https://www.gabriell.es/es/fiesta-de-la-fotografia/&quot;&gt;Fiesta de la fotografía&lt;/a&gt; was originally published by Robert C. Gabriell at &lt;a href=&quot;https://www.gabriell.es&quot;&gt;&lt;/a&gt; on May 10, 2010.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.gabriell.es/es/fiesta-de-la-fotografia/&quot;&gt;Fiesta de la fotografía&lt;/a&gt; was originally published by Robert C. Gabriell at &lt;a href=&quot;http://www.gabriell.es&quot;&gt;&lt;/a&gt; on May 10, 2010.&lt;/p&gt;
 
   </content>
 </entry>
@@ -945,13 +945,13 @@ pobre. ¡Clic, Clac!&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[¡Como pasa el tiempo!]]></title>
-  <link rel="alternate" type="text/html" href="https://www.gabriell.es/es/como-pasa-el-tiempo/" />
-  <id>https://www.gabriell.es/es/como-pasa-el-tiempo</id>
+  <link rel="alternate" type="text/html" href="http://www.gabriell.es/es/como-pasa-el-tiempo/" />
+  <id>http://www.gabriell.es/es/como-pasa-el-tiempo</id>
   <published>2010-04-22T00:00:00+02:00</published>
   <updated>2010-04-22T00:00:00+02:00</updated>
   <author>
     <name></name>
-    <uri>https://www.gabriell.es</uri>
+    <uri>http://www.gabriell.es</uri>
     
   </author>
   <content type="html">
@@ -983,7 +983,7 @@ luego se me queja y no me reconoce cuando reparezco.&lt;/p&gt;
 
 &lt;p&gt;¡Bienvenido de nuevo!&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;https://www.gabriell.es/es/como-pasa-el-tiempo/&quot;&gt;¡Como pasa el tiempo!&lt;/a&gt; was originally published by Robert C. Gabriell at &lt;a href=&quot;https://www.gabriell.es&quot;&gt;&lt;/a&gt; on April 22, 2010.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.gabriell.es/es/como-pasa-el-tiempo/&quot;&gt;¡Como pasa el tiempo!&lt;/a&gt; was originally published by Robert C. Gabriell at &lt;a href=&quot;http://www.gabriell.es&quot;&gt;&lt;/a&gt; on April 22, 2010.&lt;/p&gt;
 
   </content>
 </entry>
@@ -993,13 +993,13 @@ luego se me queja y no me reconoce cuando reparezco.&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[El universo mecánico]]></title>
-  <link rel="alternate" type="text/html" href="https://www.gabriell.es/es/el-universo-mecanico/" />
-  <id>https://www.gabriell.es/es/el-universo-mecanico</id>
+  <link rel="alternate" type="text/html" href="http://www.gabriell.es/es/el-universo-mecanico/" />
+  <id>http://www.gabriell.es/es/el-universo-mecanico</id>
   <published>2009-08-13T00:00:00+02:00</published>
   <updated>2009-08-13T00:00:00+02:00</updated>
   <author>
     <name></name>
-    <uri>https://www.gabriell.es</uri>
+    <uri>http://www.gabriell.es</uri>
     
   </author>
   <content type="html">
@@ -1012,9 +1012,9 @@ toda esa genialidad. Un total de 52 videos de unos 30 minutos cada uno que se
 hacen muy amenos y divertidos…¡y a la vez enseñan! (Esto me recuerda a cuando
 veía Barrio Sesamo de pequeño).&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://abelgalois.blogspot.com/2009/07/el-universo-mecanico-mechanical.html&quot;&gt;El Universo Mecánico&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://abelgalois.blogspot.com/2009/07/el-universo-mecanico-mechanical.html&quot;&gt;El Universo Mecánico&lt;/a&gt;&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;https://www.gabriell.es/es/el-universo-mecanico/&quot;&gt;El universo mecánico&lt;/a&gt; was originally published by Robert C. Gabriell at &lt;a href=&quot;https://www.gabriell.es&quot;&gt;&lt;/a&gt; on August 13, 2009.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.gabriell.es/es/el-universo-mecanico/&quot;&gt;El universo mecánico&lt;/a&gt; was originally published by Robert C. Gabriell at &lt;a href=&quot;http://www.gabriell.es&quot;&gt;&lt;/a&gt; on August 13, 2009.&lt;/p&gt;
 
   </content>
 </entry>
@@ -1024,13 +1024,13 @@ veía Barrio Sesamo de pequeño).&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Musa]]></title>
-  <link rel="alternate" type="text/html" href="https://www.gabriell.es/es/musa/" />
-  <id>https://www.gabriell.es/es/musa</id>
+  <link rel="alternate" type="text/html" href="http://www.gabriell.es/es/musa/" />
+  <id>http://www.gabriell.es/es/musa</id>
   <published>2009-07-06T00:00:00+02:00</published>
   <updated>2009-07-06T00:00:00+02:00</updated>
   <author>
     <name></name>
-    <uri>https://www.gabriell.es</uri>
+    <uri>http://www.gabriell.es</uri>
     
   </author>
   <content type="html">
@@ -1080,7 +1080,7 @@ amargo en la boca, que parece que jamás consigo quitarme.&lt;/p&gt;
 &lt;em&gt;Todo el mundo es cobarde, no sólo tú y yo&lt;/em&gt;&lt;br /&gt;
 &lt;em&gt;¿O prefieres fingir?&lt;/em&gt;&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;https://www.gabriell.es/es/musa/&quot;&gt;Musa&lt;/a&gt; was originally published by Robert C. Gabriell at &lt;a href=&quot;https://www.gabriell.es&quot;&gt;&lt;/a&gt; on July 06, 2009.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.gabriell.es/es/musa/&quot;&gt;Musa&lt;/a&gt; was originally published by Robert C. Gabriell at &lt;a href=&quot;http://www.gabriell.es&quot;&gt;&lt;/a&gt; on July 06, 2009.&lt;/p&gt;
 
   </content>
 </entry>
@@ -1090,13 +1090,13 @@ amargo en la boca, que parece que jamás consigo quitarme.&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[El buslizador hiperbárico]]></title>
-  <link rel="alternate" type="text/html" href="https://www.gabriell.es/es/el-buslizador-hiperbarico/" />
-  <id>https://www.gabriell.es/es/el-buslizador-hiperbarico</id>
+  <link rel="alternate" type="text/html" href="http://www.gabriell.es/es/el-buslizador-hiperbarico/" />
+  <id>http://www.gabriell.es/es/el-buslizador-hiperbarico</id>
   <published>2009-05-19T00:00:00+02:00</published>
   <updated>2009-05-19T00:00:00+02:00</updated>
   <author>
     <name></name>
-    <uri>https://www.gabriell.es</uri>
+    <uri>http://www.gabriell.es</uri>
     
   </author>
   <content type="html">
@@ -1135,7 +1135,7 @@ Desencajahuesos Hiperestelar.&lt;/p&gt;
 
 &lt;p&gt;Continuará…(o no)&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;https://www.gabriell.es/es/el-buslizador-hiperbarico/&quot;&gt;El buslizador hiperbárico&lt;/a&gt; was originally published by Robert C. Gabriell at &lt;a href=&quot;https://www.gabriell.es&quot;&gt;&lt;/a&gt; on May 19, 2009.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.gabriell.es/es/el-buslizador-hiperbarico/&quot;&gt;El buslizador hiperbárico&lt;/a&gt; was originally published by Robert C. Gabriell at &lt;a href=&quot;http://www.gabriell.es&quot;&gt;&lt;/a&gt; on May 19, 2009.&lt;/p&gt;
 
   </content>
 </entry>
@@ -1145,13 +1145,13 @@ Desencajahuesos Hiperestelar.&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Mi propia galería en Flickr]]></title>
-  <link rel="alternate" type="text/html" href="https://www.gabriell.es/es/mi-propia-galeria-en-flickr/" />
-  <id>https://www.gabriell.es/es/mi-propia-galeria-en-flickr</id>
+  <link rel="alternate" type="text/html" href="http://www.gabriell.es/es/mi-propia-galeria-en-flickr/" />
+  <id>http://www.gabriell.es/es/mi-propia-galeria-en-flickr</id>
   <published>2009-05-18T00:00:00+02:00</published>
   <updated>2009-05-18T00:00:00+02:00</updated>
   <author>
     <name></name>
-    <uri>https://www.gabriell.es</uri>
+    <uri>http://www.gabriell.es</uri>
     
   </author>
   <content type="html">
@@ -1175,7 +1175,7 @@ haciendo en el famoso sitio web para colgar imágenes. Espero que os guste, y si
 no, pues que os den. ¡Las fotos son para mi, no para vosotros! Que las
 disfrutéis.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;https://www.gabriell.es/es/mi-propia-galeria-en-flickr/&quot;&gt;Mi propia galería en Flickr&lt;/a&gt; was originally published by Robert C. Gabriell at &lt;a href=&quot;https://www.gabriell.es&quot;&gt;&lt;/a&gt; on May 18, 2009.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.gabriell.es/es/mi-propia-galeria-en-flickr/&quot;&gt;Mi propia galería en Flickr&lt;/a&gt; was originally published by Robert C. Gabriell at &lt;a href=&quot;http://www.gabriell.es&quot;&gt;&lt;/a&gt; on May 18, 2009.&lt;/p&gt;
 
   </content>
 </entry>
@@ -1185,13 +1185,13 @@ disfrutéis.&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Playing for change]]></title>
-  <link rel="alternate" type="text/html" href="https://www.gabriell.es/es/playing-for-change/" />
-  <id>https://www.gabriell.es/es/playing-for-change</id>
+  <link rel="alternate" type="text/html" href="http://www.gabriell.es/es/playing-for-change/" />
+  <id>http://www.gabriell.es/es/playing-for-change</id>
   <published>2009-04-13T00:00:00+02:00</published>
   <updated>2009-04-13T00:00:00+02:00</updated>
   <author>
     <name></name>
-    <uri>https://www.gabriell.es</uri>
+    <uri>http://www.gabriell.es</uri>
     
   </author>
   <content type="html">
@@ -1202,7 +1202,7 @@ en concreto (por ejemplo, &lt;em&gt;Stand by me&lt;/em&gt; de Ben E. King) grab�
 determinado para luego montarlo y editarlo en forma de video, obteniendo de esta
 manera una amalgama maravillosa de diversos músicos, con diferentes estilos y
 personalidad propia, que interpretaban la misma canción. La cancion &lt;em&gt;Stand by
-me&lt;/em&gt; está disponible en &lt;a href=&quot;https://www.vimeo.com/2539741&quot;&gt;Vimeo&lt;/a&gt;. Podéis deleitaros con una nueva forma de
+me&lt;/em&gt; está disponible en &lt;a href=&quot;http://www.vimeo.com/2539741&quot;&gt;Vimeo&lt;/a&gt;. Podéis deleitaros con una nueva forma de
 hacer música que a mi al menos me ha encantado. Esto, además de ser un
 documental, forma parte de un movimiento que recibe el mismo nombre (&lt;em&gt;Playing
 for change&lt;/em&gt;) y que está centrado en crear escuelas alrededor del mundo allá
@@ -1210,10 +1210,10 @@ donde haga falta, pero siempre manteniendo los lazos con la música, de manera
 que los niños no solo aprendan a leer y escribir, sino a tocar un instrumento, y
 con ello continúen tocando para conseguir el cambio.&lt;/p&gt;
 
-&lt;p&gt;Si queréis más información podéis encontrarla &lt;a href=&quot;https://www.playingforchange.com/&quot;&gt;aquí&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Si queréis más información podéis encontrarla &lt;a href=&quot;http://www.playingforchange.com/&quot;&gt;aquí&lt;/a&gt;&lt;/p&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;https://www.gabriell.es/es/playing-for-change/&quot;&gt;Playing for change&lt;/a&gt; was originally published by Robert C. Gabriell at &lt;a href=&quot;https://www.gabriell.es&quot;&gt;&lt;/a&gt; on April 13, 2009.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.gabriell.es/es/playing-for-change/&quot;&gt;Playing for change&lt;/a&gt; was originally published by Robert C. Gabriell at &lt;a href=&quot;http://www.gabriell.es&quot;&gt;&lt;/a&gt; on April 13, 2009.&lt;/p&gt;
 
   </content>
 </entry>

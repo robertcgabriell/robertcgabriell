@@ -3,7 +3,7 @@
   
     {
       "title"			: "En la panza del Mekaro",
-      "link"			: "https://www.robertocano.es/es/en-la-panza-del-mekaro/",
+      "link"			: "http://www.robertocano.es/es/en-la-panza-del-mekaro/",
       "excerpt"		: "<p>Amaneció sentado, apoyado contra la mugrienta pared de un viejo y sucio
 refugio. El húmedo aroma a cloaca trepaba por las paredes y escapaba por un
 pequeño orificio horadado a ras de techo. A través del agujero se intuían a lo
@@ -16,7 +16,7 @@ lejos los primeros despuntes del amanecer.</p>
   
     ,{
       "title"			: "Lucky Lindy and the biggest hop of all",
-      "link"			: "https://www.robertocano.es/en/lucky-lindy-and-the-biggest-hop-of-all/",
+      "link"			: "http://www.robertocano.es/en/lucky-lindy-and-the-biggest-hop-of-all/",
       "excerpt"		: "<p>Hi, dear old friend. Long time no see (again). This time, as always, because my
 daily duties took over my online presence and didn’t have time to update my
 personal diary. It is, however, more than OK, as it has been one of the most
@@ -29,7 +29,7 @@ productive periods of the last years.</p>
   
     ,{
       "title"			: "Bootstrapping my friend",
-      "link"			: "https://www.robertocano.es/en/bootstrapping-my-friend/",
+      "link"			: "http://www.robertocano.es/en/bootstrapping-my-friend/",
       "excerpt"		: "<p>Het is lang geleden! It’s been a while since I don’t write here and the reason
 is…vacation! I’ve been traveling around the world (almost literally as I’ve
 been enjoying of Cambodia and Japan in less than a month) and I’ve
@@ -45,7 +45,7 @@ about:</p>
   
     ,{
       "title"			: "OpenGL RedBook 7th edition and the price to pay",
-      "link"			: "https://www.robertocano.es/en/opengl-redbook-7th-edition-and-the-price-to-pay/",
+      "link"			: "http://www.robertocano.es/en/opengl-redbook-7th-edition-and-the-price-to-pay/",
       "excerpt"		: "<p>In the last days I’ve formed my own opinion regarding the seventh edition of the
 OpenGL standard, by the Khronos group. I’ve been reading the first chapters of
 the book, consuming every word and trying to put in practice every example, to
@@ -58,7 +58,7 @@ get a grip on the not-so-new OpenGL 3.3.</p>
   
     ,{
       "title"			: "Camera movement and premature optimization",
-      "link"			: "https://www.robertocano.es/en/camera-movement-and-premature-optimization/",
+      "link"			: "http://www.robertocano.es/en/camera-movement-and-premature-optimization/",
       "excerpt"		: "<p>While writing the first bits and bytes of my ‘I-want-to-learn-OpenGL’ engine I
 stamped myself against the camera implementation. As a first approach I was
 trying to implement one of those fancy FPS walking cameras.</p>
@@ -70,14 +70,14 @@ trying to implement one of those fancy FPS walking cameras.</p>
   
     ,{
       "title"			: "CSS, Blogger and Simple template transparency",
-      "link"			: "https://www.robertocano.es/en/css-blogger-and-simple-template-transparency/",
+      "link"			: "http://www.robertocano.es/en/css-blogger-and-simple-template-transparency/",
       "excerpt"		: "<p>It may seem quite obvious for any HTML/CSS developer how to do this, 
 but I struggled for 2 hours to find out how to set a semi-transparent 
 background while using the Simple template of Blogger. Usually websites
 indicate how to do it while using the Dynamic template. My main problem
 was to know how the pane component was called internally. Finally I could
-find the solution in this <a href="https://www.bloggeries.com/forum/showthread.php?t=26163">thread</a>
-from Bloggeries(https://www.bloggeries.com/).</p>
+find the solution in this <a href="http://www.bloggeries.com/forum/showthread.php?t=26163">thread</a>
+from Bloggeries(http://www.bloggeries.com/).</p>
 
 "
     }
@@ -86,7 +86,7 @@ from Bloggeries(https://www.bloggeries.com/).</p>
   
     ,{
       "title"			: "PlayStation 4 and the future of videogames",
-      "link"			: "https://www.robertocano.es/en/playstation-4-and-the-future-of-videogames/",
+      "link"			: "http://www.robertocano.es/en/playstation-4-and-the-future-of-videogames/",
       "excerpt"		: "<p>This week Sony presented the next generation of PlayStation videoconsoles.
 While not unveiling the physical device as such, some specs are known.
 It is an AMD based machine, bundled with one of the so famous ATI Radeon
@@ -101,7 +101,7 @@ of the GDDR5 type.</p>
   
     ,{
       "title"			: "OSX and OpenGL 3.2",
-      "link"			: "https://www.robertocano.es/en/osx-and-opengl-3-2/",
+      "link"			: "http://www.robertocano.es/en/osx-and-opengl-3-2/",
       "excerpt"		: "<p>Recently I’ve bought the famous Red Book for OpenGL. This is the 7th
 edition (so OpenGL 3.3). I bought this one because OSX Mountain Lion only
 supports OpenGL 3.2 (by now) and I didn’t want to experiment the
@@ -114,7 +114,7 @@ frustration of trying to setup an example that finally I couldn’t run.</p>
   
     ,{
       "title"			: "OpenGL 3.2: shaders everywhere!",
-      "link"			: "https://www.robertocano.es/en/opengl-3-2-shaders-everywhere/",
+      "link"			: "http://www.robertocano.es/en/opengl-3-2-shaders-everywhere/",
       "excerpt"		: "<p>Now that I’m getting involved into OpenGL 3.2 I realize how different it is
 from OpenGL 1.2 (the last one I learned long time ago). No more glBegin/glEnd
 blocks and only VAOs (vertex array objects) and  VBOs (vertex buffer objects),
@@ -127,7 +127,7 @@ shaders and basically server side structures and processing.</p>
   
     ,{
       "title"			: "Slowing down",
-      "link"			: "https://www.robertocano.es/en/slowing-down/",
+      "link"			: "http://www.robertocano.es/en/slowing-down/",
       "excerpt"		: "<p>Recently all has been slowed down. The life, the earth, my environment, the
 writing of my story…I feel completely stuck at the edge of a waterfall, being
 dragged towards the open space ahead myself. No movements could save me from
@@ -143,7 +143,7 @@ down rapidly. Guess there’s only one way to know it.</p>
   
     ,{
       "title"			: "No les votes",
-      "link"			: "https://www.robertocano.es/es/no-les-votes/",
+      "link"			: "http://www.robertocano.es/es/no-les-votes/",
       "excerpt"		: "<p>Es increíble el movimiento social que está despertando en España en estos días.
 ¡Estoy emocionado! Creo que por fin la gente se está empezando a dar cuenta de
 que somos todos parte de la misma sociedad, ciudadanos del mismo país, al
@@ -161,7 +161,7 @@ unirnos para intentar conseguir un bien común y mayor.</p>
   
     ,{
       "title"			: "A'dam",
-      "link"			: "https://www.robertocano.es/es/adam/",
+      "link"			: "http://www.robertocano.es/es/adam/",
       "excerpt"		: "<p>Vertiginoso. No se me ocurre otro término para calificar los tres últimos meses
 de mi vida.</p>
 
@@ -172,7 +172,7 @@ de mi vida.</p>
   
     ,{
       "title"			: "Pasión y realidad",
-      "link"			: "https://www.robertocano.es/es/pasion-y-realidad/",
+      "link"			: "http://www.robertocano.es/es/pasion-y-realidad/",
       "excerpt"		: "<p>Recientemente he sabido de dos perlas relacionadas con el mundo de los
 videojuegos que ya me están haciendo salivar y anhelar que el tiempo pase más
 rápido para llegar cuanto antes a finales de década. Recientemente se ha
@@ -193,7 +193,7 @@ de este motor en su versión actual para Next Gen y para portátiles/móviles
   
     ,{
       "title"			: "Llévame a la luna",
-      "link"			: "https://www.robertocano.es/es/llevame-a-la-luna/",
+      "link"			: "http://www.robertocano.es/es/llevame-a-la-luna/",
       "excerpt"		: "<p>¡Calentando motores y preparando el despegue! Últimamente ando configurando mi
 vida (si, configurando, como si fuera un ordenador) para preparar mi particular
 vuelo hacia la luna. Concienciándome para apartarme de la relajante
@@ -219,7 +219,7 @@ obviamente.</p>
   
     ,{
       "title"			: "Meme",
-      "link"			: "https://www.robertocano.es/es/meme/",
+      "link"			: "http://www.robertocano.es/es/meme/",
       "excerpt"		: "<p>Ayer me llegó a través de facebook un nuevo meme que se está extendiendo por
 esta red social. El meme reza lo siguiente:</p>
 
@@ -230,7 +230,7 @@ esta red social. El meme reza lo siguiente:</p>
   
     ,{
       "title"			: "Diferentes etapas",
-      "link"			: "https://www.robertocano.es/es/diferentes-etapas/",
+      "link"			: "http://www.robertocano.es/es/diferentes-etapas/",
       "excerpt"		: "<p><em>Veinticinco balas malgastadas</em><br />
 <em>Apunté hacia el cielo</em><br />
 <em>y conseguí matar a un dios</em>  </p>
@@ -272,7 +272,7 @@ esta red social. El meme reza lo siguiente:</p>
   
     ,{
       "title"			: "Canciones de una vida ajetreada",
-      "link"			: "https://www.robertocano.es/es/canciones-de-una-vida-ajetreada/",
+      "link"			: "http://www.robertocano.es/es/canciones-de-una-vida-ajetreada/",
       "excerpt"		: "<p>He decidido añadir una nueva sección a este renovado blog. Una sección que
 habla de mi vida de una manera un tanto diferente. Habla de lo que fui y de lo
 que soy y, sobre todo, de como he llegado a ser el de hoy. La sección se llama
@@ -287,7 +287,7 @@ las he encontrado todas.</p>
   
     ,{
       "title"			: "Revolución",
-      "link"			: "https://www.robertocano.es/es/revolucion/",
+      "link"			: "http://www.robertocano.es/es/revolucion/",
       "excerpt"		: "<p><em>De la rabia entre mis manos hablo</em><br />
 <em>Con ira entiendo las cuerdas que me atan, esclavo</em><br />
 <em>Quiero surgir de entre ahogos inhumanos</em><br />
@@ -335,7 +335,7 @@ las he encontrado todas.</p>
   
     ,{
       "title"			: "Sácalo de tu mente",
-      "link"			: "https://www.robertocano.es/es/sacalo-de-tu-mente/",
+      "link"			: "http://www.robertocano.es/es/sacalo-de-tu-mente/",
       "excerpt"		: "<p><em>Me muero lentamente</em><br />
 <em>entre palabras y aguijones</em><br />
 <em>No creí que el mundo fuese</em><br />
@@ -400,7 +400,7 @@ las he encontrado todas.</p>
   
     ,{
       "title"			: "Particle (unseen)",
-      "link"			: "https://www.robertocano.es/es/particle-unseen/",
+      "link"			: "http://www.robertocano.es/es/particle-unseen/",
       "excerpt"		: "<p>Una de las canciones que compuse para mi último grupo, Silver Metal Box, y que
 trataba ni más ni menos quede mi mundo interior, y de como siento que a
 veces nada encaja y que todo flota. Mi sensación es que la única manera de que
@@ -417,7 +417,7 @@ las dos a la vez. Normalmente ni yo mismo se ninguna de las dos cosas.</p>
   
     ,{
       "title"			: "Starway to heaven",
-      "link"			: "https://www.robertocano.es/es/starway-to-heaven/",
+      "link"			: "http://www.robertocano.es/es/starway-to-heaven/",
       "excerpt"		: "<p>¡¡Vaya, que ilusión!! Soy asiduo a un blog sobre ciencia simplista (si, si, así
 como suena), que es una delicia. Su nombre es [El Tamiz][1] , y lo recomiendo
 para todo aquel que sea un apasionado a la ciencia y, como yo, no tenga un
@@ -443,9 +443,9 @@ universal!</p>
   
     ,{
       "title"			: "Fiesta de la fotografía",
-      "link"			: "https://www.robertocano.es/es/fiesta-de-la-fotografia/",
+      "link"			: "http://www.robertocano.es/es/fiesta-de-la-fotografia/",
       "excerpt"		: "<p>Y este sábado fue la primera convocatoria de la Fiesta de la Fotografía,
-convocada por <a href="https://www.efti.es/">EFTI - Distrito de Retiro</a>. Fue un encuentro
+convocada por <a href="http://www.efti.es/">EFTI - Distrito de Retiro</a>. Fue un encuentro
 bastante interesante. Cerca de 2000 fotógrafos haciendo de las suyas dentro del
 recinto del Retiro, en busca de esa <strong>Foto especial</strong> que contara algo sobre el
 parque, su gente, el momento o quizás los sentimientos internos que el evento
@@ -484,7 +484,7 @@ pobre. ¡Clic, Clac!</p>
   
     ,{
       "title"			: "¡Como pasa el tiempo!",
-      "link"			: "https://www.robertocano.es/es/como-pasa-el-tiempo/",
+      "link"			: "http://www.robertocano.es/es/como-pasa-el-tiempo/",
       "excerpt"		: "<p>Es curioso lo rápido que pasa el tiempo. Hace unos 8 meses que no aparezco por
 aquí para vomitar esperpentos por mi boquita de piñón. Muchos cambios han
 sucedido estos meses: Piso nuevo, trabajo nuevo, coche nuevo, nueva relación
@@ -518,7 +518,7 @@ luego se me queja y no me reconoce cuando reparezco.</p>
   
     ,{
       "title"			: "El universo mecánico",
-      "link"			: "https://www.robertocano.es/es/el-universo-mecanico/",
+      "link"			: "http://www.robertocano.es/es/el-universo-mecanico/",
       "excerpt"		: "<p>Completísima colección de lecciones sobre el Universo Mecánico. Basados en las
 lecciones impartidas por David Goodstein en el Instituto de Tecnología de
 Calfornia y complementados con partes documentales con gráficos y animaciones.
@@ -535,7 +535,7 @@ veía Barrio Sesamo de pequeño).</p>
   
     ,{
       "title"			: "Musa",
-      "link"			: "https://www.robertocano.es/es/musa/",
+      "link"			: "http://www.robertocano.es/es/musa/",
       "excerpt"		: "<p>Una canción que he escuchado hace poquito y que me hace paladear un regusto
 amargo en la boca, que parece que jamás consigo quitarme.</p>
 
@@ -546,7 +546,7 @@ amargo en la boca, que parece que jamás consigo quitarme.</p>
   
     ,{
       "title"			: "El buslizador hiperbárico",
-      "link"			: "https://www.robertocano.es/es/el-buslizador-hiperbarico/",
+      "link"			: "http://www.robertocano.es/es/el-buslizador-hiperbarico/",
       "excerpt"		: "<p>Se encontró allí en medio, sin saber que hacer ni que decir, justo cuando le
 sorprendió el sonido familiar de un claxon que tocaba una melodía melancólica al
 compás de un Do menor. Giró la cabeza para encontrarse frente a frente con el
@@ -565,7 +565,7 @@ el interior.</p>
   
     ,{
       "title"			: "Mi propia galería en Flickr",
-      "link"			: "https://www.robertocano.es/es/mi-propia-galeria-en-flickr/",
+      "link"			: "http://www.robertocano.es/es/mi-propia-galeria-en-flickr/",
       "excerpt"		: "<p>Ni más ni menos que eso mismo. Los que me conocéis un poco ya sabéis que no se
 estar quieto y que me encanta experimentar. Eso tiene un lado bueno y uno malo.
 El bueno es que no dejo de hacer cosas nuevas nunca, lo que me enriquece
@@ -593,7 +593,7 @@ disfrutéis.</p>
   
     ,{
       "title"			: "Playing for change",
-      "link"			: "https://www.robertocano.es/es/playing-for-change/",
+      "link"			: "http://www.robertocano.es/es/playing-for-change/",
       "excerpt"		: "<p><em>Playing for change</em> es, entre otras cosas un documental de Mark Johnson y
 Jonathan Walls sobre los músicos callejeros de EEUU. En la producción de ese
 documental se les pidió a diversos músicos callejeros que interpretaran un tema
@@ -616,7 +616,7 @@ con ello continúen tocando para conseguir el cambio.</p>
   
     ,{
       "title"			: "Aún te espero...",
-      "link"			: "https://www.robertocano.es/es/aun-te-espero/",
+      "link"			: "http://www.robertocano.es/es/aun-te-espero/",
       "excerpt"		: "<p>Una preciosa canción de [Riverside][1] titulada [Conceiving you][2] con la que
 me siento muy identificado. Del disco Second Life Syndrome. Muy recomendado si
 os gusta el Progresivo Ambiental.</p>
@@ -628,7 +628,7 @@ os gusta el Progresivo Ambiental.</p>
   
     ,{
       "title"			: "Intermedio",
-      "link"			: "https://www.robertocano.es/es/intermedio/",
+      "link"			: "http://www.robertocano.es/es/intermedio/",
       "excerpt"		: "<p>Poesía y canción que utilicé para poner letra a la música de un grupo con el que
 estuve hablando para una posible colaboración y que al final no cuajó. Si un día
 me animo colgaré la demo que hicimos.</p>
@@ -640,7 +640,7 @@ me animo colgaré la demo que hicimos.</p>
   
     ,{
       "title"			: "Intermedio",
-      "link"			: "https://www.robertocano.es/es/intermedio-2/",
+      "link"			: "http://www.robertocano.es/es/intermedio-2/",
       "excerpt"		: "<p>Pareciera que mi espacio personal se hubiera quedado congelado y no permitiera
 que nadie lo tocara. Como si se tratase de una figura de acerado hielo
 quebradizo que pudiese romperse al más mínimo intento de protegerla y
@@ -671,7 +671,7 @@ desoladora.</p>
   
     ,{
       "title"			: "El mismo espectador",
-      "link"			: "https://www.robertocano.es/es/el-mismo-espectador/",
+      "link"			: "http://www.robertocano.es/es/el-mismo-espectador/",
       "excerpt"		: "<p><em>Miedo es lo que mueve mi inánime alma cuando muero</em><br />
 <em>Miedo es la vida que escapa entre mustios intentos de anhelo</em><br />
 <em>Miedo es tener en la mente visiones de futuros inciertos</em>  </p>
@@ -719,7 +719,7 @@ desoladora.</p>
   
     ,{
       "title"			: "Siempre es la misma función",
-      "link"			: "https://www.robertocano.es/es/siempre-es-la-misma-funcion/",
+      "link"			: "http://www.robertocano.es/es/siempre-es-la-misma-funcion/",
       "excerpt"		: "<p>Siempre intento acariciar el consuelo en momento aciagos. Desparramo todas y
 cada una de las gotas de anhelo que conforman mi esencia y me convenzo de que
 siempre llegará el ángel alado que me lleve de la mano hacía los cielos
@@ -749,7 +749,7 @@ años luz de mi pecho.</p>
   
     ,{
       "title"			: "Hacia donde cae la ilusión",
-      "link"			: "https://www.robertocano.es/es/hacia-donde-cae-la-ilusion/",
+      "link"			: "http://www.robertocano.es/es/hacia-donde-cae-la-ilusion/",
       "excerpt"		: "<blockquote>
   <p>…el espectro de la misantropía a cuestas y la generosidad como bastión…</p>
 </blockquote>
@@ -761,7 +761,7 @@ años luz de mi pecho.</p>
   
     ,{
       "title"			: "Y esa es la historia...",
-      "link"			: "https://www.robertocano.es/es/y-esa-es-la-historia/",
+      "link"			: "http://www.robertocano.es/es/y-esa-es-la-historia/",
       "excerpt"		: "<p>Y esta es la historia de un cambio y un propósito llevado a cabo. De la fuerza
 de la intención y el poder de las convicciones. La historia de la continua
 transformación que nos lleva a todos a movernos incansablemente por los hilos
@@ -778,7 +778,7 @@ vida le va dando para aprovecharlas al máximo.</p>
   
     ,{
       "title"			: "Hacia las extrañezas de un ligero cambio",
-      "link"			: "https://www.robertocano.es/es/hacia-las-extranezas-de-un-ligero-cambio/",
+      "link"			: "http://www.robertocano.es/es/hacia-las-extranezas-de-un-ligero-cambio/",
       "excerpt"		: "<p>Estrepitosa fue la salida de aquel mundano tugurio excavado en el semisótano de
 uno de esos cochambrosos edificios que clamaban al cielo por una reforma o un
 derribo. Los diminutos escalones que anclaban aquel antro con el resto del mundo
@@ -805,7 +805,7 @@ cristales.</p>
   
     ,{
       "title"			: "Cruzando el estrecho umbral que nos separa de la locura",
-      "link"			: "https://www.robertocano.es/es/cruzando-el-estrecho-umbral-que-nos-separa-de-la-locura/",
+      "link"			: "http://www.robertocano.es/es/cruzando-el-estrecho-umbral-que-nos-separa-de-la-locura/",
       "excerpt"		: "<p>A la sombra de dos mil quinientos millones de soles que emiten incesantemente su
 cansina luz, bajo el ala de la única nave exploradora que ha sido creada por la
 mano del hombre, recito incansable el mismo salmo una y otra vez:</p>
@@ -817,7 +817,7 @@ mano del hombre, recito incansable el mismo salmo una y otra vez:</p>
   
     ,{
       "title"			: "Pérdida de conocimiento",
-      "link"			: "https://www.robertocano.es/es/perdida-de-conocimiento/",
+      "link"			: "http://www.robertocano.es/es/perdida-de-conocimiento/",
       "excerpt"		: "<p>A veces pierdo el conocimiento real de lo que yace a mi alrededor. Se desvanece
 en el tiempo y en el instante como una niebla gris y fría que nubla el
 recorrido. No entiendo si en mi cabeza habitan seres irreales que juegan a
@@ -834,7 +834,7 @@ en cualquier caso, me ha salido un pareado.</p>
   
     ,{
       "title"			: "Transporte",
-      "link"			: "https://www.robertocano.es/es/transporte/",
+      "link"			: "http://www.robertocano.es/es/transporte/",
       "excerpt"		: "<p>Asomaba su cabeza desde lo más alto de aquel edificio de ébano enclavado entre
 la Calle 44 y la Avenida de los Imposibles. El viento azotaba con furia sus
 cabellos y arrancaba jirones de saliva de su boca, que se hallaba completamente
@@ -849,7 +849,7 @@ piedad al universo.</p>
   
     ,{
       "title"			: "Dolor",
-      "link"			: "https://www.robertocano.es/es/dolor/",
+      "link"			: "http://www.robertocano.es/es/dolor/",
       "excerpt"		: "<p>Letras ajadas extraidas directamente del alma. Una canción que escribí hace
 mucho tiempo con un nombre en la cabeza y un intenso sentimiento en el corazón:</p>
 
@@ -860,7 +860,7 @@ mucho tiempo con un nombre en la cabeza y un intenso sentimiento en el corazón:
   
     ,{
       "title"			: "Si solo soy sincero...",
-      "link"			: "https://www.robertocano.es/es/si-solo-soy-sincero/",
+      "link"			: "http://www.robertocano.es/es/si-solo-soy-sincero/",
       "excerpt"		: "<p>Hacia el viento interminable de la soledad que ocupa el espacio vacío entre
 lineas. Con la palabra atenta del deseo como miel en los labios y la mirada
 perdida entre el futuro y lo incierto. El alma ataviada de luto y el corazón
@@ -883,7 +883,7 @@ Solo soy y solo muero.</p>
   
     ,{
       "title"			: "En la cúpula del tiempo",
-      "link"			: "https://www.robertocano.es/es/en-la-cupula-del-tiempo/",
+      "link"			: "http://www.robertocano.es/es/en-la-cupula-del-tiempo/",
       "excerpt"		: "<p>Siempre, siempre flotando entre las nebulosas interminables del tiempo que
 descansan sobre el caos más absoluto y efímero.</p>
 
@@ -894,7 +894,7 @@ descansan sobre el caos más absoluto y efímero.</p>
   
     ,{
       "title"			: "¡Vacaciones, vacaciones!",
-      "link"			: "https://www.robertocano.es/es/vacaciones-vacaciones/",
+      "link"			: "http://www.robertocano.es/es/vacaciones-vacaciones/",
       "excerpt"		: "<p>Pues eso, que de vacaciones he estado y como un mico me lo he pasado. He estado
 con tres de mis mejores amigos (en realidad no tengo tantos buenos amigos, solo
 cuatro) y ha sido genial. Hemos estado en Fuengirola, en casa de la abuela de mi
@@ -917,7 +917,7 @@ cuando se te escape alguno dedicado a la cuarta amiga que faltaba.</p>
   
     ,{
       "title"			: "Aikidoka, encuentra tu camino",
-      "link"			: "https://www.robertocano.es/es/aikidoka-encuentra-tu-camino/",
+      "link"			: "http://www.robertocano.es/es/aikidoka-encuentra-tu-camino/",
       "excerpt"		: "<p>Noble arte moderno desarrollado por Morihei Ueshiba en la decada de 1930.
 Significa “El camino del Ki”. Ya estaba yo prendado de este arte marcial desde
 hace algunos años. Me parece, elegante, minimalista, sencillo (bueno, que no se
@@ -933,7 +933,7 @@ varias escuelas en las que Ueshiba estudió</p>
   
     ,{
       "title"			: "Cuando el viento sopla de nuevo",
-      "link"			: "https://www.robertocano.es/es/cuando-el-viento-sopla-de-nuevo/",
+      "link"			: "http://www.robertocano.es/es/cuando-el-viento-sopla-de-nuevo/",
       "excerpt"		: "<p>A veces parece que el viento decide volver a retomar su eterno movimiento y nos
 regala un susurro sosegado en nuestro oido. Acaricia suavemente la parte más
 escondida de nuestro cuello y nos hace vibrar de nuevo. Siempre fue bueno
@@ -958,7 +958,7 @@ Espero poder usar estos versos alguna vez para hablar con mi musa:</p>
   
     ,{
       "title"			: "Al principio...",
-      "link"			: "https://www.robertocano.es/es/al-principio/",
+      "link"			: "http://www.robertocano.es/es/al-principio/",
       "excerpt"		: "<p>Solamente palabras que acceden al elemento más interno de una mente trastornada.
 Solamente sentimientos que afloran al mínimo contacto con la realidad. Lágrimas
 negras que alimentan los oscuros miedos que nos dominan día a día como generales
@@ -985,7 +985,7 @@ escuchar.</p>
   
     ,{
       "title"			: "Articulos",
-      "link"			: "https://www.robertocano.es/es/",
+      "link"			: "http://www.robertocano.es/es/",
       "excerpt"		: ""
     }
   
@@ -993,7 +993,7 @@ escuchar.</p>
   
     ,{
       "title"			: "Articles",
-      "link"			: "https://www.robertocano.es/",
+      "link"			: "http://www.robertocano.es/",
       "excerpt"		: ""
     }
   
@@ -1003,7 +1003,7 @@ escuchar.</p>
   
     ,{
       "title"			: "Sobre mí",
-      "link"			: "https://www.robertocano.es/sobremi/",
+      "link"			: "http://www.robertocano.es/sobremi/",
       "excerpt"		: ""
     }
   
@@ -1011,7 +1011,7 @@ escuchar.</p>
   
     ,{
       "title"			: "About me",
-      "link"			: "https://www.robertocano.es/about/",
+      "link"			: "http://www.robertocano.es/about/",
       "excerpt"		: ""
     }
   
@@ -1023,7 +1023,7 @@ escuchar.</p>
   
     ,{
       "title"			: "Articulos",
-      "link"			: "https://www.robertocano.es/es/page2/",
+      "link"			: "http://www.robertocano.es/es/page2/",
       "excerpt"		: ""
     }
   
@@ -1031,7 +1031,7 @@ escuchar.</p>
   
     ,{
       "title"			: "Articulos",
-      "link"			: "https://www.robertocano.es/es/page3/",
+      "link"			: "http://www.robertocano.es/es/page3/",
       "excerpt"		: ""
     }
   
@@ -1039,7 +1039,7 @@ escuchar.</p>
   
     ,{
       "title"			: "Articulos",
-      "link"			: "https://www.robertocano.es/es/page4/",
+      "link"			: "http://www.robertocano.es/es/page4/",
       "excerpt"		: ""
     }
   
