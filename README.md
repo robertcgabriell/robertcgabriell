@@ -1,7 +1,7 @@
 # Robert C. Gabriell Blog sources
 
-This blog is based on the **So Simple Theme** from designer slash illustrator [Michael Rose](http://mademistakes.com). The original theme
-can be found [here](http://mmistakes.github.io/so-simple-theme/) hosted on GitHub.
+This blog is based on the **So Simple Theme** from designer slash illustrator [Michael Rose](https://mademistakes.com). The original theme
+can be found [here](https://mmistakes.github.io/so-simple-theme/) hosted on GitHub.
 
 Some modifications have been made to the theme, removing all unwanted functionality and adding support for multilingual
 site. In order to do this the theme templates and layouts have been modified to include the appropiate translations

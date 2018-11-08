@@ -6,8 +6,8 @@ description:
     en: Stories of a busy-man in a busy-life
     es: Historias de una vida ajetreada
 logo: bio-photo.jpg
-url: http://www.gabriell.es
-#url: http://localhost:4000
+url: https://www.gabriell.es
+#url: https://localhost:4000
 paginate_per_category: 10
 paginate_root_category: es
 comments: true

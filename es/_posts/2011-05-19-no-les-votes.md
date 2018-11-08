@@ -73,5 +73,5 @@ CiU.
 
 **¡TODOS A LA ACAMPADA QUE HAY EN SOL O EN CADA CIUDAD! ¡QUE SE NOS OIGA!**
 
- [1]: http://www.filmica.com/david_bravo/
+ [1]: https://www.filmica.com/david_bravo/
  [2]: https://docs.google.com/document/pub?id=139G8EL1OOR-RtfhTstHb7qekZvBoJTz1oCImbGa_I48&pli=1

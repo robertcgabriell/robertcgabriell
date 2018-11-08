@@ -26,7 +26,7 @@ verdad es que viendo las demás soluciones, la mía (junto con la de otros
 encantado que lo publiquen. ¡En fin, una pequeña aportación al frikismo
 universal!
 
- [1]: http://www.eltamiz.com/
- [2]: http://eltamiz.com/2010/04/06/desafios-el-pajaro-azuzu/
- [3]: http://eltamiz.com/2010/05/03/desafios-escalera-hacia-el-cielo/
- [4]: http://eltamiz.com/2010/05/10/desafios-escalera-hacia-el-cielo-solucion/
+ [1]: https://www.eltamiz.com/
+ [2]: https://eltamiz.com/2010/04/06/desafios-el-pajaro-azuzu/
+ [3]: https://eltamiz.com/2010/05/03/desafios-escalera-hacia-el-cielo/
+ [4]: https://eltamiz.com/2010/05/10/desafios-escalera-hacia-el-cielo-solucion/
